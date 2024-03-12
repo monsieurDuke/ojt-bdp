@@ -1,0 +1,26 @@
+private_key:
+  cipher_algorithm: aes256
+  key_sizes: 2048
+certificate_request:
+  - id: cooki3.gg
+    country: US
+    state: California
+    locality: San Francisco
+    organization: MyCompany
+    organizational_unit: IT Department
+    common_name: mydomain.com
+    email_address: admin@mydomain.com
+    subject_alt_names:
+      - www.mydomain.com
+      - mail.mydomain.com
+  - id: cookie.com
+    country: IN
+    state: California
+    locality: San Francisco
+    organization: MyCompany
+    organizational_unit: IT Department
+    common_name: mydomain.com
+    email_address: admin@mydomain.com
+    subject_alt_names:
+      - www.mydomain.com
+      - mail.mydomain.com
