@@ -1,0 +1,67 @@
+#!/bin/bash
+# prerequisite: openssl, yq
+# yq '.certificate_request[] | select(.id == 1).country' config.yaml
+# yq '.certificate_request[] | select(.id == "cooki3.gg")' config.yaml
+#----------  
+config="./config.yaml"
+usage() {
+	echo -e "Usage: ssl-gen [OPTION]... [ARG]..."
+	echo -e "Openssl utilities wrapper that is manageable and portable with YAML configuration\n"
+	echo -e "Available flag options, starred one are combination purposes ...\n"
+	echo -e "  ${GREEN}-g${ENDCOLOR}, ${GREEN}--generate-key${ENDCOLOR}\t generate a new private key"
+	echo -e "  ${GREEN}-h${ENDCOLOR}, ${GREEN}--help${ENDCOLOR}\t"
+	echo -e "  ${GREEN}-h${ENDCOLOR}, ${GREEN}--help${ENDCOLOR}**\t"	
+	echo -e "\nFlag usage examples:\n"
+	echo -e "  ${YELLOW}$ ${ENDCOLOR}ssl-gen -g -d cooki3.gg"	
+	echo -e "  ${YELLOW}$ ${ENDCOLOR}ssl-gen -r -d cooki3.gg"		
+	echo -e "  ${YELLOW}$ ${ENDCOLOR}bash syn9 ${GREEN}-o${ENDCOLOR} 6666 ${GREEN}-c${ENDCOLOR} openssl-cert/bind.pem ${GREEN}-n${ENDCOLOR} enp0s8"
+	exit 0; }
+invalid() {
+  echo "ssl-gen: detecting improper option"
+  echo "try option '-h' for more information"
+  exit 1; }
+#----------
+generate_key() { 
+	# openssl genrsa -AES-256-CBC -out dump/cookie.key 2048
+	[[ ! -d $1 ]] && mkdir $1
+	var_algo=$(yq '.private_key.cipher_algorithm' $config)
+	var_key=$(yq '.private_key.key_sizes' $config)	
+	openssl genrsa -$var_algo -out $1/private.key $var_key
+	exit 0; }
+generate_csr() {
+	# openssl req -new -key mydomain.key -out mydomain.csr -subj "/C=Country/ST=State/L=Locality/O=Organization/OU=Organizational Unit/CN=Common Name/emailAddress=Email/subjectAltName=Subject Alternative Name"	
+	[[ ! -d $1 ]] && exit 1
+	## vars
+	openssl req -new -key $1/private.key -out $1/$1.csr -subj "/C=US/ST=State/L=Locality/O=Organization/OU=Organizational Unit/CN=Common Name/emailAddress=Email/subjectAltName=Subject Alternative Name"
+	exit 0
+}
+
+#----------
+args=(g generate-key r generate-csr s sign-csr v verify-crt p print-csr c print-crt k print-key h help o output d domain)
+while [ $# -gt 0 ]; do
+  if [[ "$1" == -* ]]; then
+    raw_opt=$(printf "%s\n" "$1" | tr -d '-')
+    if [[ $raw_opt ]]; then
+      if [[ $(echo "${args[@]}" | grep -ow "$raw_opt" | wc -w) -eq 1 ]]; then  
+        case $1 in
+          -d | --domain) d="$2" ;;
+          -o | --output) o="$2" ;;
+          -g | --generate-key) opt="generate-key" ;;
+          -r | --generate-csr) opt="generate-csr" ;;
+          -h | --help) usage ;;
+        esac
+      else
+        echo "$0: illegal option -- $raw_opt"
+        invalid
+      fi
+    fi
+  fi
+  shift  
+done
+#----------
+case $opt in
+  "generate-key") [[ "$d" && "$o" ]] && generate_key "$d" "$o" || invalid ;;
+  "generate-csr") [[ "$d" ]] && generate_csr "$d" || invalid ;;
+esac
+#----------
+usage
