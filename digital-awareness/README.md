@@ -67,19 +67,19 @@ Last Submission   : 2024-03-10 03:30:11 UTC
 MD5               : bd3d5f7bcc16174b8068c7419f0e7263 
 SHA-256           : 7e2c8312393f4cbc483672182dd963513faed9a8aba4d967676dbf47190c3e6d
 File Type         : Android (executable, mobile, apk)
-Score             : 15/64 security vendors flagged this file as malicious
+Score             : [11/03/24] 15/64 security vendors flagged this file as malicious
+                    [13/03/24] 22/62 security vendors flagged this file as malicious
                     - BitDefenderFalx: Android.Riskware.SmsSpy.EY
                     - Fortinet: Android/SmsSpy.ZKltr
                     - Kaspersky: HEUR:Trojan-Banker.AndroidOS.UdanganSteal.b
                     - Ikarus: Trojan-Spy.AndroidOS.SMSSpy
                     - WithSecure: Malware.ANDROID/SMSThief.FRMC.Gen
+                    - ZoneAlarm by Check Point: HEUR:Trojan-Banker.AndroidOS.UdangaSteal.b
+                    - Alibaba: TrojanBanker:Android/UdangaSteal.5804cacd
                     ...
-Threat Label      : trojan.smsspy/frmc
+Threat Label      : trojan.smsspy/frmc, trojan.smsspy/udangasteal
 Threat Categories : trojan, banker
 Family Labels     : smsspy, frmc, smsthief
-MITRE ATT&CK TTP  : 1. Command & Control (TA0011)
-                    2. Discovery (TA0032)
-                    3. Collection (TA0035)
 IDS Rules Matched : ET INFO Android Device Connectivity Check
 Network Comms     : HTTP Request
                       1. http://connectivitycheck.gstatic.com/generate_204 
@@ -124,7 +124,6 @@ feature-group           : label=''
   uses-implied-feature  : name='android.hardware.telephony' reason='requested a telephony permission'
 provides-component      : 'notification-listener'
 ```
-
 ### Static Analysis
 ```bash
 $ d2j-dex2jar undangan-pernikahan.apk ## generate undangan-pernikahan-dex2jar.jar
@@ -202,6 +201,94 @@ StatusBar Notification Information:
 $ adb install -t undangan-pernikahan.apk
 ```
 on progress
+```
+Zenbox Guest System : Android 9 Ultimate
+Zenbox Verdict      : 34/100 (Non Malicious) / False Positive
+Report Generated    : 10/03/2024 03:30:32
+--
+Indicators:
+  - System Summary:
+      + Requests potentially dangerous permissions
+  - Data Obfuscation:
+      + Uses reflection
+  - Persistance Installation & Behaviour:
+      + Installs an application shortcut on the screen
+  - Boot Survival:
+      + Starts/registers a service/receiver on phone boot (autostart)
+      + Installs a new wake lock (to get activate on phone screen on)
+      + Has permission to execute code after phone reboot
+  - Hooking and other Techniques for Hiding and Protection:
+      + Removes its application launcher (likely to stay hidden)
+      + Queries list of running processes/tasks
+  - Malware Analysis System Evasion:
+      + Accesses android OS build fields
+  - Language, Device and Operating System Detection:
+      + Queries the unqiue device ID (IMEI, MEID or ESN)
+  - Networking:
+      + Opens an internet connection
+      + Checks an internet connection is available
+      + Performs DNS lookups (Java API)
+  - E-Banking Fraud:
+      + Has functionalty to add an overlay to other apps
+  - Spam, unwanted Advertisements and Ransom Demands:
+      + Sends SMS using SmsManager
+      + Has permission to send SMS in the background
+  - Operating System Destruction:
+      + Lists and deletes files in the same context
+  - Change of System Appearance:
+      + May access the Android keyguard (lock screen)
+  - Stealing of Sensitive Information:
+      + Parses SMS data (e.g. originating address)
+      + Has permission to receive SMS in the background
+      + Has permission to read the SMS storage
+      + Monitors incoming SMS
+      + Reads boot loader settings of the device
+      + Creates SMS data (e.g. PDU)
+      + May take a camera picture
+  - Remote Access Functionality
+      + Found parser code for incoming SMS (may be used to act on incoming SMS, BOT)
+      + Found suspicious command strings (may be related to BOT commands)
+  - Location Tracking
+      + Queries the phones location (GPS)
+  - Privilege Escalation
+      + Tries to add a new device administrator
+
+```
+## Threat Mapping
+done by MITRE ATT&CK TTP (Technique, Tactice & Procedure) Navigator in Enterprise & Mobile Field
+```bash
+Initial Access (TA0001)
+  1. Phising (T1566)
+      - Spearphising Attachment (.001)
+Execution (TA0002)
+  1. User Execution (T1204) 
+      - Maliciious File (.001)
+Persistennce (TA0028)
+  1. Boot or Logon Initialization Scripts (T1398)
+  2. Foreground Persistence (T1541) 
+Privilege Escalation (TA0029)
+  1. Abuse Elevation Control Mechanism (T1626)
+      - Device Administrator Permissions (.001)
+Defense Evasion (TA0030)
+  1. Indicator Removal on Host (T1630)
+      - File Deletion (.002)
+Discovery (TA0032)
+  1. System Network Connections Discovery (T1421)
+  2. Process Discovery (T1424)
+  3. System Information Discovery (T1426)
+  4. Location Tracking (T1430)
+Collection (TA0035)
+  1. Location Tracking (T1430)  
+  2. Access Notification (T1517)
+  3. Protected User Data (T1636)
+      - SMS Messages (.004)
+Command & Control (TA0037)
+  1. Application Layer Protocol (T1437)
+      - Web Protocols (.001)
+  2. Encrypted Channel (T1573)
+  3. Web Service (T1481)
+      - One-Way Communication (.003)
+```
 
 ### Telegram API Call
 ```bash
