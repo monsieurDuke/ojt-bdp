@@ -15,7 +15,7 @@ A breakdown about "Undangan Nikah" study case from a phising standpoint, which i
 - curl
 - jq
 
-### Actor
+### Threat Actor
 ```
 display   : Kuehh
 tags      : Mama Desi ila
@@ -199,7 +199,9 @@ StatusBar Notification Information:
 ### Dynamic Analysis
 ```bash
 $ adb install -t undangan-pernikahan.apk
+## add frida
 ```
+<<<<<<< Updated upstream
 on progress
 ```
 Zenbox Guest System : Android 9 Ultimate
@@ -289,6 +291,9 @@ Command & Control (TA0037)
   3. Web Service (T1481)
       - One-Way Communication (.003)
 ```
+=======
+on progress. using adb & frida on android emulator
+>>>>>>> Stashed changes
 
 ### Telegram API Call
 ```bash
@@ -319,3 +324,8 @@ curl -s "https://api.telegram.org/bot7107377550:AAHNS-fTQUSO9OaynigVWMHn9DTqrh2g
   }
 }
 ```
+
+## References
+- [Membedah Modus Penipuan Undangan Pernikahan .apk | **Medium**](https://derangga.medium.com/membedah-modus-penipuan-undangan-pernikahan-apk-900150fc7d12)
+- [Analisa Malware APK Android berkedok Cek Resi Pengiriman Paket | **CISRT Tanggerang Kota**](https://csirt.tangerangkota.go.id/berita/analisa-malware-apk-android-berkedok-cek-resi-pengiriman-paket)
+- [Laporan Analisis Reverse Engineering Suspicious Android Application Undangan Pernikahan Digital | **PUSHAN SIBER RI**](https://cloud.pushansiber.net/index.php/s/J3b4NHejekAWaSk)
