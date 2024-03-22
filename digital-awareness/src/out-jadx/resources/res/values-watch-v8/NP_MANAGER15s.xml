@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f0049" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0093">
+        <item>false</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f0050" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0095">
+        <item>false</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f0072" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f009a">
+        <item>false</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+</resources>

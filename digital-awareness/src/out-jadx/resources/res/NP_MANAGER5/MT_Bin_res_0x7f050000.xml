@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:color="@NP_MANAGER5/MT_Bin_res_0x7f05001f"
+        android:state_accelerated="false"/>
+    <item android:color="@android:color/transparent"/>
+</selector>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@NP_MANAGER6/MT_Bin_res_0x7f06002d"
+    android:insetRight="@NP_MANAGER6/MT_Bin_res_0x7f06002d"
+    android:insetTop="@NP_MANAGER6/MT_Bin_res_0x7f06002e"
+    android:insetBottom="@NP_MANAGER6/MT_Bin_res_0x7f06002c">
+    <selector>
+        <item android:state_enabled="false">
+            <nine-patch
+                android:src="@NP_MANAGER7/MT_Bin_res_0x7f070051"
+                android:tint="?NP_MANAGER3/MT_Bin_res_0x7f0300e0"
+                android:alpha="?android:attr/disabledAlpha"/>
+        </item>
+        <item
+            android:state_focused="false"
+            android:state_pressed="false">
+            <nine-patch
+                android:src="@NP_MANAGER7/MT_Bin_res_0x7f070051"
+                android:tint="?NP_MANAGER3/MT_Bin_res_0x7f0300e0"/>
+        </item>
+        <item>
+            <nine-patch
+                android:src="@NP_MANAGER7/MT_Bin_res_0x7f070050"
+                android:tint="?NP_MANAGER3/MT_Bin_res_0x7f0300de"/>
+        </item>
+    </selector>
+</inset>

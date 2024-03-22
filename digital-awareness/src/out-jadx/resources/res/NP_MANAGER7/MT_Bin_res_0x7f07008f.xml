@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:exitFadeDuration="@android:integer/config_mediumAnimTime">
+    <item
+        android:state_pressed="true"
+        android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f070091"/>
+    <item
+        android:state_pressed="false"
+        android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f070090"/>
+</selector>

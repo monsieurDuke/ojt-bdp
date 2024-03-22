@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f060000">24dp</NP_MANAGER6>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f060001">80dp</NP_MANAGER6>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f060002">64dp</NP_MANAGER6>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f060003">8dp</NP_MANAGER6>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f060004">8dp</NP_MANAGER6>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f060017">580dp</NP_MANAGER6>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f06004e">16dp</NP_MANAGER6>
+    <NP_MANAGER6 name="MT_Bin_res_0x7f060050">20dp</NP_MANAGER6>
+    <NP_MANAGER6 name="design_navigation_max_width">320dp</NP_MANAGER6>
+    <NP_MANAGER6 name="design_snackbar_action_inline_max_width">0dp</NP_MANAGER6>
+    <NP_MANAGER6 name="design_snackbar_background_corner_radius">2dp</NP_MANAGER6>
+    <NP_MANAGER6 name="design_snackbar_extra_spacing_horizontal">24dp</NP_MANAGER6>
+    <NP_MANAGER6 name="design_snackbar_max_width">576dp</NP_MANAGER6>
+    <NP_MANAGER6 name="design_snackbar_min_width">320dp</NP_MANAGER6>
+    <NP_MANAGER6 name="design_snackbar_padding_vertical_2lines">@NP_MANAGER6/design_snackbar_padding_vertical</NP_MANAGER6>
+    <NP_MANAGER6 name="design_tab_scrollable_min_width">160dp</NP_MANAGER6>
+    <NP_MANAGER6 name="mtrl_bottomappbar_height">64dp</NP_MANAGER6>
+    <NP_MANAGER6 name="mtrl_toolbar_default_height">64dp</NP_MANAGER6>
+</resources>

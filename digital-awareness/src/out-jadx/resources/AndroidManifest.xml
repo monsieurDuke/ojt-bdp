@@ -1,0 +1,12 @@
+Error decode manifest
+java.lang.IndexOutOfBoundsException
+	at java.base/java.nio.Buffer.checkIndex(Buffer.java:749)
+	at java.base/java.nio.HeapByteBuffer.getInt(HeapByteBuffer.java:439)
+	at jadx.core.xmlgen.BinaryXMLStrings.get(BinaryXMLStrings.java:43)
+	at jadx.core.xmlgen.entry.ValuesParser.decodeValue(ValuesParser.java:109)
+	at jadx.core.xmlgen.BinaryXMLParser.decodeAttribute(BinaryXMLParser.java:437)
+	at jadx.core.xmlgen.BinaryXMLParser.parseAttribute(BinaryXMLParser.java:330)
+	at jadx.core.xmlgen.BinaryXMLParser.parseElement(BinaryXMLParser.java:292)
+	at jadx.core.xmlgen.BinaryXMLParser.decode(BinaryXMLParser.java:131)
+	at jadx.core.xmlgen.BinaryXMLParser.parse(BinaryXMLParser.java:86)
+

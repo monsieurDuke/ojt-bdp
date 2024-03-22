@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f01fa" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f01f8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f01fb" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f01f8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f01fc" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0201">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f01fd" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0202">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f01fe" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0203">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f01ff" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0204">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f0200" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f020d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DayNight" parent="@NP_MANAGER15/Theme_Material3_Dark">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DayNight_BottomSheetDialog" parent="@NP_MANAGER15/Theme_Material3_Dark_BottomSheetDialog">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DayNight_Dialog" parent="@NP_MANAGER15/Theme_Material3_Dark_Dialog">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DayNight_Dialog_Alert" parent="@NP_MANAGER15/Theme_Material3_Dark_Dialog_Alert">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DayNight_Dialog_MinWidth" parent="@NP_MANAGER15/Theme_Material3_Dark_Dialog_MinWidth">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DayNight_DialogWhenLarge" parent="@NP_MANAGER15/Theme_Material3_Dark_DialogWhenLarge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DayNight_NoActionBar" parent="@NP_MANAGER15/Theme_Material3_Dark_NoActionBar">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_DynamicColors_DayNight" parent="@NP_MANAGER15/Theme_Material3_DynamicColors_Dark">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight" parent="@NP_MANAGER15/Theme_MaterialComponents">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_BottomSheetDialog" parent="@NP_MANAGER15/Theme_MaterialComponents_BottomSheetDialog">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Bridge" parent="@NP_MANAGER15/Theme_MaterialComponents_Bridge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_DarkActionBar" parent="@NP_MANAGER15/Theme_MaterialComponents">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_DarkActionBar_Bridge" parent="@NP_MANAGER15/Theme_MaterialComponents_Bridge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog_Alert" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog_Alert">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog_Alert_Bridge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog_Bridge" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog_Bridge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog_FixedSize" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog_FixedSize">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog_FixedSize_Bridge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog_MinWidth" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog_MinWidth">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge" parent="@NP_MANAGER15/Theme_MaterialComponents_Dialog_MinWidth_Bridge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_DialogWhenLarge" parent="@NP_MANAGER15/Theme_MaterialComponents_DialogWhenLarge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_NoActionBar" parent="@NP_MANAGER15/Theme_MaterialComponents_NoActionBar">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MaterialComponents_DayNight_NoActionBar_Bridge" parent="@NP_MANAGER15/Theme_MaterialComponents_NoActionBar_Bridge">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_MyApplication" parent="@NP_MANAGER15/Theme_MaterialComponents_DayNight_DarkActionBar">
+        <item>?NP_MANAGER3/colorPrimaryVariant</item>
+        <item>@NP_MANAGER5/MT_Bin_res_0x7f050021</item>
+        <item>@NP_MANAGER5/MT_Bin_res_0x7f050021</item>
+        <item>@NP_MANAGER5/purple_200</item>
+        <item>@NP_MANAGER5/purple_700</item>
+        <item>@NP_MANAGER5/teal_200</item>
+        <item>@NP_MANAGER5/teal_200</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f0262" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0260">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="ThemeOverlay_Material3_DynamicColors_DayNight" parent="@NP_MANAGER15/ThemeOverlay_Material3_DynamicColors_Dark">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_ActionBar_PrimarySurface" parent="@NP_MANAGER15/Widget_MaterialComponents_ActionBar_Surface">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_AppBarLayout_PrimarySurface" parent="@NP_MANAGER15/Widget_MaterialComponents_AppBarLayout_Surface">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_BottomAppBar_PrimarySurface" parent="@NP_MANAGER15/Widget_MaterialComponents_BottomAppBar">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_BottomNavigationView_PrimarySurface" parent="@NP_MANAGER15/Widget_MaterialComponents_BottomNavigationView">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_NavigationRailView_PrimarySurface" parent="@NP_MANAGER15/Widget_MaterialComponents_NavigationRailView">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_TabLayout_PrimarySurface" parent="@NP_MANAGER15/Widget_MaterialComponents_TabLayout">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_Toolbar_PrimarySurface" parent="@NP_MANAGER15/Widget_MaterialComponents_Toolbar_Surface">
+    </NP_MANAGER15>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="Widget_Design_TabLayout" parent="@NP_MANAGER15/Base_Widget_Design_TabLayout">
+        <item>1</item>
+        <item>1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_MaterialCalendar_HeaderSelection" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0307">
+        <item>?NP_MANAGER3/textAppearanceHeadline6</item>
+        <item>?NP_MANAGER3/colorOnPrimary</item>
+        <item>end</item>
+        <item>@NP_MANAGER9/mtrl_calendar_selection_text_lines</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton" parent="@NP_MANAGER15/Base_Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton">
+        <item>start|bottom</item>
+    </NP_MANAGER15>
+</resources>

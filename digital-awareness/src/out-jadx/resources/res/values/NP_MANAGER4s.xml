@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER4 name="MT_Bin_res_0x7f040000">true</NP_MANAGER4>
+    <NP_MANAGER4 name="MT_Bin_res_0x7f040001">true</NP_MANAGER4>
+    <NP_MANAGER4 name="enable_system_alarm_service_default">false</NP_MANAGER4>
+    <NP_MANAGER4 name="enable_system_foreground_service_default">true</NP_MANAGER4>
+    <NP_MANAGER4 name="enable_system_job_service_default">true</NP_MANAGER4>
+    <NP_MANAGER4 name="mtrl_btn_textappearance_all_caps">true</NP_MANAGER4>
+    <NP_MANAGER4 name="workmanager_test_configuration">false</NP_MANAGER4>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER13 name="mtrl_badge_content_description">
+        <item>%d إشعار جديد</item>
+        <item>%d إشعار جديد</item>
+        <item>إشعار جديد واحد (%d)</item>
+        <item>إشعاران جديدان (%d)</item>
+        <item>%d إشعارات جديدة</item>
+        <item>%d إشعارًا جديدًا</item>
+    </NP_MANAGER13>
+</resources>

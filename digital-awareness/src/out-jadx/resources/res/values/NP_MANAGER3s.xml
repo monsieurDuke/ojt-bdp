@@ -1,0 +1,3835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030000">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="SharedValueId">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030002">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030003">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030004">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030005">
+        <item>65600</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030006">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030007">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030008">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030009">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03000a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03000b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03000c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03000d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03000e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03000f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030010">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030011">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030012">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030013">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="actionModeCloseContentDescription">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030015">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030016">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030017">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030018">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030019">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03001a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03001b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03001c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03001d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03001e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="actionModeTheme">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030020">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030021">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030022">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030023">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="actionTextColorAlpha">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030025">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030026">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030027">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030028">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030029">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03002a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03002b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03002c">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03002d">
+        <item>131072</item>
+        <item>0x2</item>
+        <item>0x1000</item>
+        <item>0x8</item>
+        <item>0x10000</item>
+        <item>0x1</item>
+        <item>0x4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03002e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="animateCircleAngleTo">
+        <item>65536</item>
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="animateRelativeTo">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030031">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="appBarLayoutStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030033">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030034">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030035">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030036">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030037">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="autoCompleteMode">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030039">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03003a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03003b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03003c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03003d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03003e">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03003f">
+        <item>65536</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030040">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="backgroundColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="backgroundInsetBottom">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="backgroundInsetEnd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="backgroundInsetStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="backgroundInsetTop">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="backgroundOverlayColorAlpha">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030047">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030048">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030049">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03004a">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03004b">
+        <item>65536</item>
+        <item>8388693</item>
+        <item>8388691</item>
+        <item>8388661</item>
+        <item>8388659</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03004c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03004d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="badgeTextColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03004f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="badgeWithTextRadius">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030051">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030052">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030053">
+        <item>65536</item>
+        <item>3</item>
+        <item>6</item>
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030054">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_autoHide">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_autoShrink">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_draggable">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_expandedOffset">
+        <item>65</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_fitToContents">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_halfExpandedRatio">
+        <item>33</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_hideable">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_overlapTop">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_peekHeight">
+        <item>65600</item>
+        <item>-1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_saveFlags">
+        <item>131072</item>
+        <item>0xffffffff</item>
+        <item>0x2</item>
+        <item>0x4</item>
+        <item>0x0</item>
+        <item>0x1</item>
+        <item>0x8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="behavior_skipCollapsed">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030060">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030061">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="borderRoundPercent">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030063">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030064">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="bottomAppBarStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="bottomInsetScrimEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="bottomNavigationStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="bottomSheetDialogTheme">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030069">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxBackgroundColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxBackgroundMode">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxCollapsedPaddingTop">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxCornerRadiusBottomEnd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxCornerRadiusBottomStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxCornerRadiusTopEnd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxCornerRadiusTopStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxStrokeColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxStrokeErrorColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxStrokeWidth">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="boxStrokeWidthFocused">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030075">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030076">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030077">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030078">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030079">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03007a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03007b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03007c">
+        <item>131072</item>
+        <item>0x50</item>
+        <item>0x10</item>
+        <item>0x30</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03007d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03007e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03007f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030080">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030081">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030082">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030083">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030084">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030085">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cardForegroundColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030087">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030088">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030089">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03008a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_backwardTransition">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_emptyViewsBehavior">
+        <item>65536</item>
+        <item>8</item>
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_firstView">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_forwardTransition">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_infinite">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_nextState">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_previousState">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_touchUpMode">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_touchUp_dampeningFactor">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="carousel_touchUp_velocityThreshold">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="centerIfNoTextEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030096">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkMarkCompat">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkMarkTint">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkMarkTintMode">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03009a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkedButton">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03009c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03009d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkedIconEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkedIconGravity">
+        <item>65536</item>
+        <item>8388693</item>
+        <item>8388691</item>
+        <item>8388661</item>
+        <item>8388659</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkedIconMargin">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkedIconSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300a2">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="checkedIconVisible">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300a4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipBackgroundColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipCornerRadius">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300a7">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipGroupStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300a9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipIconEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300ab">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300ac">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipIconVisible">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300ae">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipMinTouchTargetSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300b0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipSpacingHorizontal">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipSpacingVertical">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipStandaloneStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipStartPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipStrokeColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipStrokeWidth">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300b7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="chipSurfaceColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300b9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="circularProgressIndicatorStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="circularflow_angles">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="circularflow_defaultAngle">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="circularflow_defaultRadius">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="circularflow_radiusInDP">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="circularflow_viewCenter">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300c0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300c1">
+        <item>131072</item>
+        <item>0x100</item>
+        <item>0x1000</item>
+        <item>0x11</item>
+        <item>0x1</item>
+        <item>0x10</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="clockFaceBackgroundColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300c3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300c4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="clockNumberTextColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300c6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="closeIconEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="closeIconEndPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300c9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="closeIconStartPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300cb">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300cc">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300cd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300ce">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300cf">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsedSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsedTitleGravity">
+        <item>131072</item>
+        <item>0x50</item>
+        <item>0x11</item>
+        <item>0x1</item>
+        <item>0x10</item>
+        <item>0x800005</item>
+        <item>0x70</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x800003</item>
+        <item>0x30</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsedTitleTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsedTitleTextColor">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsingToolbarLayoutLargeSize">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsingToolbarLayoutLargeStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsingToolbarLayoutMediumSize">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsingToolbarLayoutMediumStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="collapsingToolbarLayoutStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300d9">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300da">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300db">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300dc">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300dd">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300de">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300df">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300e0">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300e1">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300e2">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnBackground">
+        <item>255</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300e4">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300e5">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnErrorContainer">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnPrimary">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnPrimaryContainer">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnPrimarySurface">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnSecondary">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnSecondaryContainer">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnSurface">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnSurfaceInverse">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnSurfaceVariant">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnTertiary">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorOnTertiaryContainer">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300f1">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300f2">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorPrimaryContainer">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300f4">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorPrimaryInverse">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorPrimarySurface">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorPrimaryVariant">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorSecondary">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorSecondaryContainer">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorSecondaryVariant">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300fb">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorSurfaceInverse">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorSurfaceVariant">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300fe">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0300ff">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="colorTertiaryContainer">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030101">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030102">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030103">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030104">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030105">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030106">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="constraint_referenced_tags">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030108">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030109">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03010a">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03010b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03010c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03010d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03010e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03010f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030110">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030111">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030112">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="contentPaddingEnd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030114">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030115">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="contentPaddingStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030117">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030118">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030119">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03011a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03011b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerFamily">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerFamilyBottomLeft">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerFamilyBottomRight">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerFamilyTopLeft">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerFamilyTopRight">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030121">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030122">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerSizeBottomLeft">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerSizeBottomRight">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerSizeTopLeft">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="cornerSizeTopRight">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="counterEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="counterMaxLength">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="counterOverflowTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="counterOverflowTextColor">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="counterTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03012c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03012d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03012e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03012f">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030130">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030131">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030132">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030133">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030134">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030135">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030136">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030137">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="customReference">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030139">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="dayInvalidStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03013b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03013c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03013d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03013e">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03013f">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030140">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030141">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030142">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030143">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030144">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030145">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030146">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030147">
+        <item>131072</item>
+        <item>0x20</item>
+        <item>0x4</item>
+        <item>0x0</item>
+        <item>0x10</item>
+        <item>0x2</item>
+        <item>0x8</item>
+        <item>0x1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030148">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030149">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03014a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03014b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03014c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03014d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="dividerThickness">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03014f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030150">
+        <item>65536</item>
+        <item>7</item>
+        <item>6</item>
+        <item>1</item>
+        <item>5</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030151">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030152">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030153">
+        <item>65536</item>
+        <item>4</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030154">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030155">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030156">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030157">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030158">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030159">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03015a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03015b">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03015c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03015d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="drawerLayoutCornerSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03015f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030160">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030161">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030162">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="dynamicColorThemeOverlay">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030164">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030165">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030166">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030167">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="elevationOverlayAccentColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="elevationOverlayColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="elevationOverlayEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="emojiCompatEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03016c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="endIconCheckable">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="endIconContentDescription">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="endIconDrawable">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030170">
+        <item>65536</item>
+        <item>2</item>
+        <item>-1</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030171">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030172">
+        <item>65536</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="enforceMaterialTheme">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="enforceTextAppearance">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="ensureMinTouchTargetSize">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="errorContentDescription">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030177">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="errorIconDrawable">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030179">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03017a">
+        <item>65536</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03017b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03017c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03017d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03017e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedHintEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleGravity">
+        <item>131072</item>
+        <item>0x50</item>
+        <item>0x11</item>
+        <item>0x1</item>
+        <item>0x10</item>
+        <item>0x800005</item>
+        <item>0x70</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x800003</item>
+        <item>0x30</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleMargin">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleMarginBottom">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleMarginEnd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleMarginStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleMarginTop">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="expandedTitleTextColor">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="extendMotionSpec">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="extendedFloatingActionButtonPrimaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="extendedFloatingActionButtonSecondaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="extendedFloatingActionButtonStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="extendedFloatingActionButtonSurfaceStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="extendedFloatingActionButtonTertiaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="extraMultilineHeightEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="fabAlignmentMode">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="fabAnimationMode">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="fabCradleMargin">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="fabCradleRoundedCornerRadius">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="fabCradleVerticalOffset">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="fabCustomSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030195">
+        <item>65536</item>
+        <item>-1</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030196">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030197">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030198">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030199">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03019a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03019b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonLargePrimaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonLargeSecondaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonLargeStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonLargeSurfaceStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonLargeTertiaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonPrimaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonSecondaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonSurfaceStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="floatingActionButtonTertiaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301a6">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301a7">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301a8">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301a9">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301aa">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ab">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ac">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ad">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ae">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301af">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b0">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b1">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b2">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b3">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b4">
+        <item>65536</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b5">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b7">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b8">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301b9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ba">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301bb">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301bc">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301bd">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301be">
+        <item>65540</item>
+        <item>-1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301bf">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301c0">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301c1">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301c2">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301c3">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301c4">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="forceApplySystemWindowInsetTop">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="foregroundInsidePadding">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301c7">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301c8">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="gestureInsetBottomIgnored">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ca">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="guidelineUseRtl">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301cc">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301cd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ce">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301cf">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301d0">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="helperTextEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="helperTextTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301d3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="hideAnimationBehavior">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="hideMotionSpec">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301d6">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301d7">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="hintAnimationEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301d9">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="hintTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="hintTextColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301dc">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301dd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="horizontalOffset">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="horizontalOffsetWithText">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="hoveredFocusedTranslationZ">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e3">
+        <item>131072</item>
+        <item>0x3</item>
+        <item>0x1</item>
+        <item>0x4</item>
+        <item>0x2</item>
+        <item>0x20</item>
+        <item>0x10</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e4">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e5">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="iconStartPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e7">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e8">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301e9">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ea">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301eb">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ec">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ed">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ee">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ef">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301f0">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="indeterminateAnimationType">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301f2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301f3">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="indicatorDirectionCircular">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="indicatorDirectionLinear">
+        <item>65536</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="indicatorInset">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="indicatorSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301f8">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="insetForeground">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301fa">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="isMaterial3Theme">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301fc">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemActiveIndicatorStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemBackground">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0301ff">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemHorizontalPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemHorizontalTranslationEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemIconPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030203">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030204">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030205">
+        <item>4</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030206">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030207">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemPaddingBottom">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemPaddingTop">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03020a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemShapeAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemShapeAppearanceOverlay">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemShapeFillColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemShapeInsetBottom">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemShapeInsetEnd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemShapeInsetStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemShapeInsetTop">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030212">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemStrokeColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemStrokeWidth">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemTextAppearanceActive">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemTextAppearanceInactive">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030218">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="itemVerticalPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03021a">
+        <item>65536</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="keyboardIcon">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03021c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03021d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03021e">
+        <item>65536</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03021f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="labelVisibilityMode">
+        <item>65536</item>
+        <item>-1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030221">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="lastItemDecorated">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030223">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030224">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030225">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030226">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030227">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030228">
+        <item>131072</item>
+        <item>0x50</item>
+        <item>0x11</item>
+        <item>0x1</item>
+        <item>0x10</item>
+        <item>0x8</item>
+        <item>0x80</item>
+        <item>0x800005</item>
+        <item>0x77</item>
+        <item>0x7</item>
+        <item>0x70</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x800003</item>
+        <item>0x30</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030229">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_collapseMode">
+        <item>65536</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_collapseParallaxMultiplier">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03022c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03022d">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03022e">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03022f">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_constraintBaseline_toBottomOf">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_constraintBaseline_toTopOf">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030232">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030233">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030234">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030235">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030236">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030237">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030238">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030239">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03023a">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03023b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03023c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03023d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_constraintHeight">
+        <item>65602</item>
+        <item>-3</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03023f">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030240">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030241">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030242">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030243">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030244">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030245">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030246">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030247">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030248">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030249">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03024a">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03024b">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03024c">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03024d">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03024e">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03024f">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030250">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030251">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030252">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030253">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030254">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_constraintWidth">
+        <item>65602</item>
+        <item>-3</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030256">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030257">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030258">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030259">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03025a">
+        <item>131072</item>
+        <item>0x77</item>
+        <item>0x50</item>
+        <item>0x800005</item>
+        <item>0x3</item>
+        <item>0x0</item>
+        <item>0x5</item>
+        <item>0x800003</item>
+        <item>0x30</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03025b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03025c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_goneMarginBaseline">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03025e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03025f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030260">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030261">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030262">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030263">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030264">
+        <item>65536</item>
+        <item>80</item>
+        <item>8388613</item>
+        <item>3</item>
+        <item>0</item>
+        <item>5</item>
+        <item>8388611</item>
+        <item>48</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030265">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_marginBaseline">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030267">
+        <item>131072</item>
+        <item>0x2</item>
+        <item>0x100</item>
+        <item>0x4</item>
+        <item>0x200</item>
+        <item>0x8</item>
+        <item>0x1</item>
+        <item>0x40</item>
+        <item>0x80</item>
+        <item>0x400</item>
+        <item>0x20</item>
+        <item>0x0</item>
+        <item>0x0</item>
+        <item>0x10</item>
+        <item>0x101</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_scrollEffect">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_scrollFlags">
+        <item>131072</item>
+        <item>0x4</item>
+        <item>0x8</item>
+        <item>0x2</item>
+        <item>0x0</item>
+        <item>0x1</item>
+        <item>0x10</item>
+        <item>0x20</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_scrollInterpolator">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="layout_wrapBehaviorInParent">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03026c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="liftOnScrollTargetViewId">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03026e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03026f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030270">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="linearProgressIndicatorStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030272">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030273">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030274">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030275">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030276">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030277">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030278">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030279">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03027a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03027b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03027c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03027d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03027e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03027f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030280">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030281">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="logoAdjustViewBounds">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030283">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="logoScaleType">
+        <item>65536</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="marginHorizontal">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="marginLeftSystemWindowInsets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="marginRightSystemWindowInsets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="marginTopSystemWindowInsets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialAlertDialogBodyTextStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialAlertDialogButtonSpacerVisibility">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialAlertDialogTheme">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialAlertDialogTitleIconStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialAlertDialogTitlePanelStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialAlertDialogTitleTextStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialButtonOutlinedStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialButtonStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialButtonToggleGroupStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarDay">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarDayOfWeekLabel">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarFullscreenTheme">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarHeaderCancelButton">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarHeaderConfirmButton">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarHeaderDivider">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarHeaderLayout">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarHeaderSelection">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarHeaderTitle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarHeaderToggleButton">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarMonth">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarMonthNavigationButton">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarTheme">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCalendarYearNavigationButton">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCardViewElevatedStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCardViewFilledStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCardViewOutlinedStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCardViewStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialCircleRadius">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialClockStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialDisplayDividerStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialDividerHeavyStyle">
+        <item>255</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialDividerStyle">
+        <item>255</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialThemeOverlay">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialTimePickerStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialTimePickerTheme">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="materialTimePickerTitleStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302ae">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="maxActionInlineWidth">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="maxCharacterCount">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b3">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b4">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b5">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b7">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302b8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="menuGravity">
+        <item>65536</item>
+        <item>81</item>
+        <item>17</item>
+        <item>49</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302ba">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302bb">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302bc">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="minSeparation">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="minTouchTargetSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302bf">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302c0">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302c1">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302c2">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302c3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302c4">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302c5">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302c6">
+        <item>65536</item>
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionDurationLong1">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionDurationLong2">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionDurationMedium1">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionDurationMedium2">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionDurationShort1">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionDurationShort2">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEasingAccelerated">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEasingDecelerated">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEasingEmphasized">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEasingLinear">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEasingStandard">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_alpha">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_end">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_move">
+        <item>65536</item>
+        <item>-1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_start">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_strict">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_translationX">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_translationY">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="motionEffect_viewTransition">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302da">
+        <item>65539</item>
+        <item>6</item>
+        <item>4</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302db">
+        <item>65538</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302dc">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302dd">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302de">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302df">
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e0">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e2">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e4">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e6">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302e7">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="navigationRailStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="navigationViewStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302ea">
+        <item>131072</item>
+        <item>0x1</item>
+        <item>0x2</item>
+        <item>0x0</item>
+        <item>0x4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="nestedScrollViewStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="nestedScrollable">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302ed">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302ee">
+        <item>131072</item>
+        <item>0x2</item>
+        <item>0x1000</item>
+        <item>0x8</item>
+        <item>0x10000</item>
+        <item>0x1</item>
+        <item>0x4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302ef">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f0">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f1">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f2">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f3">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f4">
+        <item>65536</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f5">
+        <item>65536</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+        <item>6</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f6">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f7">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302f8">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="paddingBottomSystemWindowInsets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302fa">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="paddingLeftSystemWindowInsets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="paddingRightSystemWindowInsets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302fd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0302fe">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="paddingTopSystemWindowInsets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030300">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030301">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030302">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="passwordToggleContentDescription">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="passwordToggleDrawable">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="passwordToggleEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="passwordToggleTint">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="passwordToggleTintMode">
+        <item>65536</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030308">
+        <item>65536</item>
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030309">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03030a">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03030b">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03030c">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03030d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03030e">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03030f">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="placeholderText">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="placeholderTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="placeholderTextColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030313">
+        <item>65536</item>
+        <item>8</item>
+        <item>4</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030314">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="popupMenuBackground">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030316">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030317">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030318">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030319">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="prefixTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="prefixTextColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03031c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="pressedTranslationZ">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03031e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03031f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="quantizeMotionInterpolator">
+        <item>65539</item>
+        <item>4</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="quantizeMotionPhase">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="quantizeMotionSteps">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030323">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030324">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="queryPatterns">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030326">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="rangeFillColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030328">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030329">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03032a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="reactiveGuide_animateChange">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="reactiveGuide_applyToAllConstraintSets">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="reactiveGuide_applyToConstraintSet">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="reactiveGuide_valueId">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03032f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030330">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030331">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030332">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030333">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030334">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030335">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030336">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030337">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030338">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030339">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="scaleFromTextSize">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="scrimAnimationDuration">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="scrimBackground">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="scrimVisibleHeightTrigger">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03033e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03033f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030340">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030341">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030342">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030343">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="selectionRequired">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030345">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030346">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030347">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="shapeAppearanceLargeComponent">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="shapeAppearanceMediumComponent">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="shapeAppearanceOverlay">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="shapeAppearanceSmallComponent">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="shortcutMatchRequired">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="showAnimationBehavior">
+        <item>65536</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03034e">
+        <item>131072</item>
+        <item>0x2</item>
+        <item>0x8</item>
+        <item>0x1</item>
+        <item>0x0</item>
+        <item>0x4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03034f">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030350">
+        <item>131072</item>
+        <item>0x1</item>
+        <item>0x4</item>
+        <item>0x2</item>
+        <item>0x0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="showMotionSpec">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030352">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030353">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030354">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="shrinkMotionSpec">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="simpleItemLayout">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030357">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030358">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030359">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03035a">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03035b">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03035c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="snackbarButtonStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="snackbarStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="snackbarTextViewStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030360">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030361">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030362">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030363">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030364">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="springBoundary">
+        <item>131072</item>
+        <item>0x3</item>
+        <item>0x2</item>
+        <item>0x1</item>
+        <item>0x0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030366">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030367">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030368">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="springStopThreshold">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03036a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03036b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03036c">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="startIconCheckable">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="startIconContentDescription">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="startIconDrawable">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030370">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="startIconTintMode">
+        <item>65536</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030372">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="state_collapsed">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="state_collapsible">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="state_dragged">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="state_liftable">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="state_lifted">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030378">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="statusBarForeground">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03037a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03037b">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03037c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03037d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="subheaderColor">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="subheaderInsetEnd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="subheaderInsetStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="subheaderTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030382">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030383">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="subtitleCentered">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030385">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030386">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030387">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030388">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="suffixTextAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="suffixTextColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03038b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03038c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03038d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03038e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03038f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabBackground">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030391">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030392">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030393">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabIconTintMode">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030395">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabIndicatorAnimationDuration">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabIndicatorAnimationMode">
+        <item>65536</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabIndicatorColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabIndicatorFullWidth">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabIndicatorGravity">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabIndicatorHeight">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03039c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03039d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03039e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03039f">
+        <item>65536</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303a0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabPaddingBottom">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303a2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabPaddingStart">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303a4">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabRippleColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabSecondaryStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabSelectedTextColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303a8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303a9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303aa">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tabUnboundedRipple">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ac">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ad">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ae">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303af">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303b0">
+        <item>9</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceBody1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceBody2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceBodyLarge">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceBodyMedium">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceBodySmall">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceButton">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceCaption">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceDisplayLarge">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceDisplayMedium">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceDisplaySmall">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadline1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadline2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadline3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadline4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadline5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadline6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadlineLarge">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadlineMedium">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceHeadlineSmall">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceLabelLarge">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceLabelMedium">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceLabelSmall">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303c7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceLineHeightEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303c9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ca">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303cb">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceOverline">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303cd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ce">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303cf">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303d0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceSubtitle1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceSubtitle2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceTitleLarge">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceTitleMedium">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textAppearanceTitleSmall">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textBackground">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textBackgroundPanX">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textBackgroundPanY">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textBackgroundRotate">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textBackgroundZoom">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303db">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303dc">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303dd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303de">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputFilledDenseStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputFilledExposedDropdownMenuStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputFilledStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputLayoutFocusedRectEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputOutlinedDenseStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputOutlinedExposedDropdownMenuStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputOutlinedStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textInputStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303e7">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textOutlineColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textOutlineThickness">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ea">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303eb">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textStartPadding">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="textureBlurFactor">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ee">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ef">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303f0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303f1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303f2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303f3">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303f4">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="thumbElevation">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303f6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="thumbStrokeColor">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="thumbStrokeWidth">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303f9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303fa">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303fb">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303fc">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tickColorActive">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="tickColorInactive">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f0303ff">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030400">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030401">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030402">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030403">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030404">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030405">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030406">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="titleCollapseMode">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030408">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030409">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03040a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03040b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03040c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03040d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03040e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="titlePositionInterpolator">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030410">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030411">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030412">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030413">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030414">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030415">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="toolbarSurfaceStyle">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030417">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030418">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030419">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03041a">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="topInsetScrimEnabled">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03041c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03041d">
+        <item>65536</item>
+        <item>3</item>
+        <item>6</item>
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+        <item>5</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03041e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03041f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030420">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="trackColorActive">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="trackColorInactive">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="trackCornerRadius">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030424">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="trackThickness">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030426">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030427">
+        <item>65536</item>
+        <item>16</item>
+        <item>14</item>
+        <item>15</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="transformPivotTarget">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030429">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03042a">
+        <item>65538</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03042b">
+        <item>131072</item>
+        <item>0x1</item>
+        <item>0x2</item>
+        <item>0x0</item>
+        <item>0x4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03042c">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="transitionShapeAppearance">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03042e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03042f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030430">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030431">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030432">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="useCompatPadding">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="useMaterialThemeColors">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030435">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="verticalOffset">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="verticalOffsetWithText">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030438">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="viewTransitionMode">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="viewTransitionOnCross">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="viewTransitionOnNegativeCross">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="viewTransitionOnPositiveCross">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03043d">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03043e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03043f">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030440">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030441">
+        <item>96</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030442">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030443">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030444">
+        <item>65538</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030445">
+        <item>65536</item>
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030446">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030447">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030448">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030449">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03044a">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03044b">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03044c">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03044d">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03044e">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f03044f">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030450">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030451">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="MT_Bin_res_0x7f030452">
+        <item>1</item>
+    </NP_MANAGER3>
+</resources>

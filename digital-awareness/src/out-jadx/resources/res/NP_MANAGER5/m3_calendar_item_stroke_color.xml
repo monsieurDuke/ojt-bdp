@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_selected="true"
+        android:color="?NP_MANAGER3/colorOnSurfaceVariant"/>
+    <item
+        android:state_focused="true"
+        android:color="?NP_MANAGER3/colorOnSurfaceVariant"/>
+    <item
+        android:color="?NP_MANAGER3/MT_Bin_res_0x7f0300f1"
+        android:state_hovered="true"/>
+    <item android:color="@android:color/transparent"/>
+</selector>

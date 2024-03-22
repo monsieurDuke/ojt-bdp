@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER17 name="backup_rules">ۨ۬۠.xml</NP_MANAGER17>
+    <NP_MANAGER17 name="data_extraction_rules">ۗ۟ۤ.xml</NP_MANAGER17>
+    <NP_MANAGER17 name="standalone_badge">ۦۜۤ.xml</NP_MANAGER17>
+    <NP_MANAGER17 name="standalone_badge_gravity_bottom_end">ۚۥۡ.xml</NP_MANAGER17>
+    <NP_MANAGER17 name="standalone_badge_gravity_bottom_start">ۤۚۗ.xml</NP_MANAGER17>
+    <NP_MANAGER17 name="standalone_badge_gravity_top_start">ۜ۠۬.xml</NP_MANAGER17>
+    <NP_MANAGER17 name="standalone_badge_offset">ۡۨۥ.xml</NP_MANAGER17>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0000">Navegar para a página inicial</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0001">Navegar para cima</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0002">Mais opções</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0003">Concluído</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0004">Ver tudo</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0005">Selecionar um app</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0006">DESATIVADO</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0007">ATIVADO</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0008">Alt+</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0009">Ctrl+</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e000a">delete</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e000b">enter</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e000c">Function+</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e000d">Meta+</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e000e">Shift+</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e000f">espaço</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0010">Sym+</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0011">Menu+</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0012">Pesquisar…</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0013">Limpar consulta</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0014">Consulta de pesquisa</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0015">Pesquisar</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0016">Enviar consulta</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0017">Pesquisa por voz</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0018">Compartilhar com</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e0019">Compartilhar com %s</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e001a">Recolher</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e007a">Pesquisar</NP_MANAGER14>
+    <NP_MANAGER14 name="MT_Bin_res_0x7f0e007b">999+</NP_MANAGER14>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@NP_MANAGER5/MT_Bin_res_0x7f05001b">
+    <item android:id="@android:id/mask">
+        <inset
+            android:insetLeft="@NP_MANAGER6/MT_Bin_res_0x7f060057"
+            android:insetRight="@NP_MANAGER6/MT_Bin_res_0x7f060057"
+            android:insetTop="@NP_MANAGER6/MT_Bin_res_0x7f060058"
+            android:insetBottom="@NP_MANAGER6/MT_Bin_res_0x7f060058">
+            <shape android:shape="rectangle">
+                <corners android:radius="@NP_MANAGER6/MT_Bin_res_0x7f06005b"/>
+                <solid android:color="@android:color/white"/>
+                <padding
+                    android:left="@NP_MANAGER6/MT_Bin_res_0x7f060059"
+                    android:top="@NP_MANAGER6/MT_Bin_res_0x7f06005a"
+                    android:right="@NP_MANAGER6/MT_Bin_res_0x7f060059"
+                    android:bottom="@NP_MANAGER6/MT_Bin_res_0x7f06005a"/>
+            </shape>
+        </inset>
+    </item>
+</ripple>

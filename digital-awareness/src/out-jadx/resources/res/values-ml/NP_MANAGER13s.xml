@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER13 name="mtrl_badge_content_description">
+        <item>%d പുതിയ അറിയിപ്പുകൾ</item>
+        <item>%d പുതിയ അറിയിപ്പ്</item>
+    </NP_MANAGER13>
+</resources>

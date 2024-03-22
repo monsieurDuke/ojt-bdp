@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f0047" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f00a8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f004e" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f00a9">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0265">
+        <item>0.32</item>
+        <item>@NP_MANAGER15/Widget_MaterialComponents_CheckedTextView</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/MaterialAlertDialog_MaterialComponents</item>
+        <item>@NP_MANAGER15/Widget_MaterialComponents_Button_TextButton_Dialog</item>
+        <item>@NP_MANAGER15/Widget_MaterialComponents_Button_TextButton_Dialog</item>
+        <item>@NP_MANAGER15/Widget_MaterialComponents_Button_TextButton_Dialog_Flush</item>
+        <item>@NP_MANAGER15/Widget_MaterialComponents_Button_TextButton_Dialog</item>
+        <item>@NP_MANAGER15/MaterialAlertDialog_MaterialComponents_Body_Text</item>
+        <item>@NP_MANAGER9/mtrl_view_invisible</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f00a8" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f00a5">
+        <item>?android:attr/dialogCornerRadius</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f00a9" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f00a6">
+        <item>?android:attr/dialogCornerRadius</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_BodyLarge" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0182">
+        <item>16sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_regular</item>
+        <item>0.0312</item>
+        <item>24sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_regular</item>
+        <item>24sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_BodyMedium" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0181">
+        <item>14sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_regular</item>
+        <item>0.0179</item>
+        <item>20sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_regular</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_BodySmall" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0184">
+        <item>12sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_regular</item>
+        <item>0.0333</item>
+        <item>16sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_regular</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_DisplayLarge" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0187">
+        <item>57sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>-0.0044</item>
+        <item>64sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>64sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_DisplayMedium" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0186">
+        <item>45sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>0</item>
+        <item>52sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>52sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_DisplaySmall" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0185">
+        <item>36sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>0</item>
+        <item>44sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>44sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_HeadlineLarge" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0185">
+        <item>32sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>0</item>
+        <item>40sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>40sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_HeadlineMedium" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0189">
+        <item>28sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>0</item>
+        <item>36sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>36sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_HeadlineSmall" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f019a">
+        <item>24sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>0</item>
+        <item>32sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>32sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_LabelLarge" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0181">
+        <item>14sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>0.0071</item>
+        <item>20sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_LabelMedium" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0184">
+        <item>12sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>0.0417</item>
+        <item>16sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_LabelSmall" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0184">
+        <item>11sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>0.0455</item>
+        <item>16sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_TitleLarge" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f019a">
+        <item>22sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>0</item>
+        <item>28sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_brand_regular</item>
+        <item>28sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_TitleMedium" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0198">
+        <item>16sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>0.0094</item>
+        <item>24sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>24sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="TextAppearance_M3_Sys_Typescale_TitleSmall" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0198">
+        <item>14sp</item>
+        <item>normal</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>0.0071</item>
+        <item>20sp</item>
+        <item>@NP_MANAGER14/m3_ref_typeface_plain_medium</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_Material3_AppBarLayout" parent="@NP_MANAGER15/Widget_MaterialComponents_AppBarLayout_Surface">
+        <item>@android:color/transparent</item>
+        <item>@android:color/transparent</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Widget_Material3_Toolbar" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0309">
+        <item>@android:color/transparent</item>
+        <item>@android:color/transparent</item>
+        <item>0dp</item>
+        <item>?NP_MANAGER3/textAppearanceTitleMedium</item>
+        <item>?NP_MANAGER3/textAppearanceTitleLarge</item>
+    </NP_MANAGER15>
+</resources>

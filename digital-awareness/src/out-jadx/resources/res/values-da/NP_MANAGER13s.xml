@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER13 name="mtrl_badge_content_description">
+        <item>%d nye notifikationer</item>
+        <item>%d ny notifikation</item>
+    </NP_MANAGER13>
+</resources>

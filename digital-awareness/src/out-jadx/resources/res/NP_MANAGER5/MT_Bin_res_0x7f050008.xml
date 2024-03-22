@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="true"
+        android:state_pressed="true"
+        android:color="@NP_MANAGER5/MT_Bin_res_0x7f05005c"
+        android:alpha="@NP_MANAGER6/MT_Bin_res_0x7f06009b"/>
+    <item
+        android:color="@NP_MANAGER5/MT_Bin_res_0x7f05005c"
+        android:alpha="@NP_MANAGER6/MT_Bin_res_0x7f060099"/>
+</selector>

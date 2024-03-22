@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER13 name="mtrl_badge_content_description">
+        <item>%d naujų pranešimų</item>
+        <item>%d naujas pranešimas</item>
+        <item>%d nauji pranešimai</item>
+        <item>%d naujo pranešimo</item>
+    </NP_MANAGER13>
+</resources>

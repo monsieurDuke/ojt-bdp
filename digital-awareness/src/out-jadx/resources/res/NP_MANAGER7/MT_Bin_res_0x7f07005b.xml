@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f07005a">
+    <target
+        android:name="icon_null"
+        android:animation="@NP_MANAGER1/MT_Bin_res_0x7f01000e"/>
+    <target
+        android:name="box_outer_merged"
+        android:animation="@NP_MANAGER1/MT_Bin_res_0x7f01000d"/>
+    <target
+        android:name="box_inner_merged"
+        android:animation="@NP_MANAGER1/MT_Bin_res_0x7f01000c"/>
+</animated-vector>

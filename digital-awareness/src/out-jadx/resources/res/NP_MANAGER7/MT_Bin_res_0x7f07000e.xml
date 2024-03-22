@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@NP_MANAGER6/MT_Bin_res_0x7f060012"
+    android:insetRight="@NP_MANAGER6/MT_Bin_res_0x7f060012"
+    android:insetTop="@NP_MANAGER6/MT_Bin_res_0x7f060013"
+    android:insetBottom="@NP_MANAGER6/MT_Bin_res_0x7f060013">
+    <ripple android:color="?android:attr/colorControlHighlight">
+        <item>
+            <selector>
+                <item android:state_enabled="false">
+                    <shape android:shape="rectangle">
+                        <corners android:radius="@NP_MANAGER6/MT_Bin_res_0x7f060018"/>
+                        <solid android:color="?android:attr/colorButtonNormal"/>
+                        <padding
+                            android:left="@NP_MANAGER6/MT_Bin_res_0x7f060014"
+                            android:top="@NP_MANAGER6/MT_Bin_res_0x7f060015"
+                            android:right="@NP_MANAGER6/MT_Bin_res_0x7f060014"
+                            android:bottom="@NP_MANAGER6/MT_Bin_res_0x7f060015"/>
+                    </shape>
+                </item>
+                <item>
+                    <shape android:shape="rectangle">
+                        <corners android:radius="@NP_MANAGER6/MT_Bin_res_0x7f060018"/>
+                        <solid android:color="?android:attr/colorAccent"/>
+                        <padding
+                            android:left="@NP_MANAGER6/MT_Bin_res_0x7f060014"
+                            android:top="@NP_MANAGER6/MT_Bin_res_0x7f060015"
+                            android:right="@NP_MANAGER6/MT_Bin_res_0x7f060014"
+                            android:bottom="@NP_MANAGER6/MT_Bin_res_0x7f060015"/>
+                    </shape>
+                </item>
+            </selector>
+        </item>
+    </ripple>
+</inset>

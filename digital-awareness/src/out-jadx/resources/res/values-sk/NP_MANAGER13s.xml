@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER13 name="mtrl_badge_content_description">
+        <item>%d nových upozornení</item>
+        <item>%d nové upozornenie</item>
+        <item>%d nové upozornenia</item>
+        <item>%d new notifications</item>
+    </NP_MANAGER13>
+</resources>

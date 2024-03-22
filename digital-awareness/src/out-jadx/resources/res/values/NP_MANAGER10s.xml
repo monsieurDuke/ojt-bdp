@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER10 name="MT_Bin_res_0x7f0a0000">ۚۤۙ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="MT_Bin_res_0x7f0a0001">ۚۢۘ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="MT_Bin_res_0x7f0a0002">ۘۧۛ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="MT_Bin_res_0x7f0a0003">ۚۚۜ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="MT_Bin_res_0x7f0a0004">۟ۘۦ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="MT_Bin_res_0x7f0a0005">ۥۜۚ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="MT_Bin_res_0x7f0a0006">ۘۢ۠.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="mtrl_fast_out_linear_in">۠ۡۡ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="mtrl_fast_out_slow_in">ۗۦۥ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="mtrl_linear">ۢۡۡ.xml</NP_MANAGER10>
+    <NP_MANAGER10 name="mtrl_linear_out_slow_in">ۗ۟۫.xml</NP_MANAGER10>
+</resources>

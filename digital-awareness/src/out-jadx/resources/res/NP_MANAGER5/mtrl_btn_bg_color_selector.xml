@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="true"
+        android:color="?NP_MANAGER3/MT_Bin_res_0x7f0300f2"/>
+    <item
+        android:color="?NP_MANAGER3/colorOnSurface"
+        android:alpha="0.12"/>
+</selector>

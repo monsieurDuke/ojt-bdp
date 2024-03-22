@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER6 name="clock_face_margin_start">24dp</NP_MANAGER6>
+    <NP_MANAGER6 name="material_clock_face_margin_top">36dp</NP_MANAGER6>
+</resources>

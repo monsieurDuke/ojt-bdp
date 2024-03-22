@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_checked="true"
+        android:id="@NP_MANAGER8/MT_Bin_res_0x7f080143"
+        android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f07005e"/>
+    <item
+        android:id="@NP_MANAGER8/MT_Bin_res_0x7f080142"
+        android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f07005c"/>
+    <transition
+        android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f07005f"
+        android:toId="@NP_MANAGER8/MT_Bin_res_0x7f080142"
+        android:fromId="@NP_MANAGER8/MT_Bin_res_0x7f080143"/>
+    <transition
+        android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f07005d"
+        android:toId="@NP_MANAGER8/MT_Bin_res_0x7f080143"
+        android:fromId="@NP_MANAGER8/MT_Bin_res_0x7f080142"/>
+</animated-selector>

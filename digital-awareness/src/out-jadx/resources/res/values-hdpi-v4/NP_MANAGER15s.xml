@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f00c8" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f00c9">
+        <item>18.66dp</item>
+        <item>24dp</item>
+        <item>3.33dp</item>
+    </NP_MANAGER15>
+</resources>

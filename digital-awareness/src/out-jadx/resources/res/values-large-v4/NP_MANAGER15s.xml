@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f004d" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f004b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="MT_Bin_res_0x7f0f0054" parent="@NP_MANAGER15/MT_Bin_res_0x7f0f0052">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Base_Theme_MaterialComponents_DialogWhenLarge" parent="@NP_MANAGER15/Base_Theme_MaterialComponents_Dialog_FixedSize">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Base_Theme_MaterialComponents_Light_DialogWhenLarge" parent="@NP_MANAGER15/Base_Theme_MaterialComponents_Light_Dialog_FixedSize">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_Dark_DialogWhenLarge" parent="@NP_MANAGER15/Base_Theme_Material3_Dark_Dialog">
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="Theme_Material3_Light_DialogWhenLarge" parent="@NP_MANAGER15/Base_Theme_Material3_Light_Dialog">
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/MT_Bin_res_0x7f06001f</item>
+    </NP_MANAGER15>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="Widget_Design_TabLayout" parent="@NP_MANAGER15/Base_Widget_Design_TabLayout">
+        <item>1</item>
+        <item>1</item>
+    </NP_MANAGER15>
+</resources>

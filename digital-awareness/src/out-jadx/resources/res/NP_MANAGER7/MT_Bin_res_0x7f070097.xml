@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@NP_MANAGER7/MT_Bin_res_0x7f070098"
+    android:tileMode="repeat"/>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010000">ۨ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010001">ۜ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010002">ۚ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010003">۠.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010004">ۢ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010005">۬.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010006">ۦ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010007">ۛ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010008">ۥ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010009">ۗ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f01000a">۫.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f01000b">ۡ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f01000c">ۘ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f01000d">ۖ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f01000e">ۧ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f01000f">ۤ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010010">ۙ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010011">۟.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010012">۠ۜ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010013">ۦ۠.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010014">ۡۖ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010015">ۛۨ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010016">ۧۙ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f010017">ۡۡ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="design_bottom_sheet_slide_in">۟۫.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="design_bottom_sheet_slide_out">ۚۤ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="design_snackbar_in">ۤۙ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="design_snackbar_out">ۡۦ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="MT_Bin_res_0x7f01001c">ۧۢ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="mtrl_bottom_sheet_slide_in">ۥۚ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="mtrl_bottom_sheet_slide_out">ۛۙ.xml</NP_MANAGER1>
+    <NP_MANAGER1 name="mtrl_card_lowers_interpolator">ۛ۫.xml</NP_MANAGER1>
+</resources>

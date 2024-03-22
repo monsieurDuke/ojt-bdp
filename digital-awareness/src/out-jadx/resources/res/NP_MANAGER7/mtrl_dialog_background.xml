@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@NP_MANAGER6/appcompat_dialog_background_inset"
+    android:insetRight="@NP_MANAGER6/appcompat_dialog_background_inset"
+    android:insetTop="@NP_MANAGER6/appcompat_dialog_background_inset"
+    android:insetBottom="@NP_MANAGER6/appcompat_dialog_background_inset">
+    <shape android:shape="rectangle">
+        <corners android:radius="@NP_MANAGER6/mtrl_shape_corner_size_medium_component"/>
+        <solid android:color="?NP_MANAGER3/MT_Bin_res_0x7f0300fb"/>
+    </shape>
+</inset>

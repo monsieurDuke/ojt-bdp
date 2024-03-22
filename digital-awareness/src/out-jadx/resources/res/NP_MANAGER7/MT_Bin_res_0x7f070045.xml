@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@NP_MANAGER6/MT_Bin_res_0x7f060019"
+    android:insetRight="@NP_MANAGER6/MT_Bin_res_0x7f060019"
+    android:insetTop="@NP_MANAGER6/MT_Bin_res_0x7f060019"
+    android:insetBottom="@NP_MANAGER6/MT_Bin_res_0x7f060019">
+    <selector>
+        <item
+            android:state_checked="false"
+            android:state_pressed="false">
+            <layer-list>
+                <item android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f070051"/>
+                <item android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f070044"/>
+            </layer-list>
+        </item>
+        <item>
+            <layer-list>
+                <item android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f070050"/>
+                <item android:drawable="@NP_MANAGER7/MT_Bin_res_0x7f070044"/>
+            </layer-list>
+        </item>
+    </selector>
+</inset>

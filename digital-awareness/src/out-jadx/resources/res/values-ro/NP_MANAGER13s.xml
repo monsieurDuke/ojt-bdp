@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER13 name="mtrl_badge_content_description">
+        <item>%d de notificări noi</item>
+        <item>%d notificare nouă</item>
+        <item>%d notificări noi</item>
+    </NP_MANAGER13>
+</resources>
